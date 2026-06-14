@@ -56,8 +56,6 @@ $_GET["nome"]
 $_GET["idade"]
 ```
 
----
-
 ## Método GET
 
 O método GET envia dados pela própria URL.
@@ -78,8 +76,6 @@ Exemplo:
 
 * os dados ficam visíveis
 * menos seguro para informações sensíveis
-
----
 
 ## Método POST
 
@@ -119,8 +115,6 @@ trabalho-http/
 ```
 
 ## Demonstração do Projeto
-
-Adicionar prints do sistema:
 
 ### Tela inicial
 <img width="672" height="971" alt="image" src="https://github.com/user-attachments/assets/dc673f36-421e-4a9b-9b19-41147bec1f7b" />

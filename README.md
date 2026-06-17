@@ -137,7 +137,7 @@ trabalho-http/
 
 ## Vídeo Explicativo
 
-(link)
+https://youtu.be/u6U4hr4GfQY?si=xVU3ClP2H94oLXwk
 
 ## Conclusão
 
